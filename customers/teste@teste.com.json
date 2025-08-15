@@ -1,11 +1,12 @@
 {
   "email": "teste@teste.com",
-  "senha": "teste-test_9",
+  "senha": "teste-v2s0o7",
   "produto": "felipedOm2525",
   "upsells_comprados": [
     1
   ],
   "data": "2025-08-15T20:06:53.385Z",
   "transacao_id": "test_941223",
-  "acesso_liberado": true
+  "acesso_liberado": true,
+  "data_recuperacao": "2025-08-15T20:12:18.872Z"
 }
